@@ -41,7 +41,7 @@ make req/test.crt
 | Configuration file | For                                    |
 | ------------------ | -------------------------------------- |
 | ca_root.conf       | CA root certificate                    |
-| ca_root.conf       | The behavior of CA                     |
+| ca_root.crt.conf   | The behavior of CA                     |
 | reqs/test.csr.conf | CSR of sample multi-domain certificate |
 
 ## Reference
