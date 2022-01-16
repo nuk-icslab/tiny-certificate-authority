@@ -1,0 +1,7 @@
+ca_certs/
+new_certs/
+data/
+
+reqs/test.csr
+reqs/test.key
+reqs/test.crt
