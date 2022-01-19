@@ -1,4 +1,4 @@
-all: test.key test.csr
+all: server.key server.csr
 
 %.key:
 	@echo Generating private key ...

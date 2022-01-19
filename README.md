@@ -11,7 +11,7 @@ To simplify HTTPS development
 
 ```bash
 # You can download the source code from GitHub
-git clone https://github.com/ifTNT/tiny-certificate-authority.git
+git clone https://github.com/nuk-icslab/tiny-certificate-authority.git
 cd tiny-certificate-authority
 ```
 
